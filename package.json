@@ -1,23 +1,51 @@
 {
-  "name": "react-native-baidu-map",
-  "version": "0.6.0",
-  "description": "Baidu Map SDK modules and view for React Native(Android & IOS), support react native 0.40+.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+  "_args": [
+    [
+      "github:nimengbo/react-native-baidu-map#master",
+      "/Users/zhanhang/project/dataplus/dataplus-react-native-app-2"
+    ]
+  ],
+  "_from": "github:nimengbo/react-native-baidu-map#master",
+  "_id": "react-native-baidu-map@github:nimengbo/react-native-baidu-map#917229340b387a278a0675261679f15cfff3586d",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-baidu-map",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/lovebing/react-native-baidu-map.git"
+    "raw": "github:nimengbo/react-native-baidu-map#master",
+    "rawSpec": "github:nimengbo/react-native-baidu-map#master",
+    "saveSpec": "github:nimengbo/react-native-baidu-map#master",
+    "fetchSpec": null,
+    "gitCommittish": "master"
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:nimengbo/react-native-baidu-map#917229340b387a278a0675261679f15cfff3586d",
+  "_spec": "github:nimengbo/react-native-baidu-map#master",
+  "_where": "/Users/zhanhang/project/dataplus/dataplus-react-native-app-2",
+  "author": {
+    "name": "lovebing"
+  },
+  "bugs": {
+    "url": "https://github.com/lovebing/react-native-baidu-map/issues"
+  },
+  "description": "Baidu Map SDK modules and view for React Native(Android & IOS), support react native 0.40+.",
+  "homepage": "https://github.com/lovebing/react-native-baidu-map#readme",
   "keywords": [
     "Baidu Map",
     "React Native"
   ],
-  "author": "lovebing",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lovebing/react-native-baidu-map/issues"
+  "main": "index.js",
+  "name": "react-native-baidu-map",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovebing/react-native-baidu-map.git"
   },
-  "homepage": "https://github.com/lovebing/react-native-baidu-map#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.6.0"
 }
