@@ -1,29 +1,29 @@
 {
   "_args": [
     [
-      "github:nimengbo/react-native-baidu-map#master",
+      "github:netdolphin/react-native-baidu-map#master",
       "/Users/zhanhang/project/dataplus/dataplus-react-native-app-2"
     ]
   ],
-  "_from": "github:nimengbo/react-native-baidu-map#master",
-  "_id": "react-native-baidu-map@github:nimengbo/react-native-baidu-map#917229340b387a278a0675261679f15cfff3586d",
+  "_from": "github:netdolphin/react-native-baidu-map#master",
+  "_id": "react-native-baidu-map@github:netdolphin/react-native-baidu-map#917229340b387a278a0675261679f15cfff3586d",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/react-native-baidu-map",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "github:nimengbo/react-native-baidu-map#master",
-    "rawSpec": "github:nimengbo/react-native-baidu-map#master",
-    "saveSpec": "github:nimengbo/react-native-baidu-map#master",
+    "raw": "github:netdolphin/react-native-baidu-map#master",
+    "rawSpec": "github:netdolphin/react-native-baidu-map#master",
+    "saveSpec": "github:netdolphin/react-native-baidu-map#master",
     "fetchSpec": null,
     "gitCommittish": "master"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "github:nimengbo/react-native-baidu-map#917229340b387a278a0675261679f15cfff3586d",
-  "_spec": "github:nimengbo/react-native-baidu-map#master",
+  "_resolved": "github:netdolphin/react-native-baidu-map#917229340b387a278a0675261679f15cfff3586d",
+  "_spec": "github:netdolphin/react-native-baidu-map#master",
   "_where": "/Users/zhanhang/project/dataplus/dataplus-react-native-app-2",
   "author": {
     "name": "lovebing"
