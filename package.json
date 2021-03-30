@@ -6,7 +6,7 @@
     ]
   ],
   "_from": "github:netdolphin/react-native-baidu-map#master",
-  "_id": "react-native-baidu-map@github:netdolphin/react-native-baidu-map#917229340b387a278a0675261679f15cfff3586d",
+  "_id": "react-native-baidu-map@github:netdolphin/react-native-baidu-map",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/react-native-baidu-map",
@@ -22,7 +22,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "github:netdolphin/react-native-baidu-map#917229340b387a278a0675261679f15cfff3586d",
+  "_resolved": "github:netdolphin/react-native-baidu-map",
   "_spec": "github:netdolphin/react-native-baidu-map#master",
   "_where": "/Users/zhanhang/project/dataplus/dataplus-react-native-app-2",
   "author": {
